@@ -1,7 +1,6 @@
 package L05SearchingSortingAndGreedyAlgorithms;
 
 import java.util.Arrays;
-import java.util.Collections;
 
 public class P01_01SortWithoutComparison {
     public static int[] counts;
